@@ -145,18 +145,6 @@ Some popular distributions include:
 
 ---
 
-# Personal Notes
-
-> Add your own observations here after completing the episode.
-
-Example:
-
-- Linux is much more than Kali Linux.
-- Understanding the basics will make learning cybersecurity tools easier.
-- Practice is more important than simply watching videos.
-
----
-
 # Commands Learned
 
 No commands were introduced in this episode.
